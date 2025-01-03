@@ -15,9 +15,15 @@ Mobil Uyumluluk: Tasarım, her ekran boyutuna uyum sağlar.
 
 ## 🚀 Çalıştırma Adımları:
 Repo'yu klonlayın:
-git clone https://github.com/kullanıcıadınız/mp3-klon.git
+git clone https://github.com/Esrakgun
 index.html dosyasını tarayıcınızda açın.
 Müziğin tadını çıkarın!
 
 ## 💬 Geri Bildirim:
 Düşüncelerinizi duymak isterim! Yorum bırakabilir veya bir hata bildirerek geri bildirimde bulunabilirsiniz. Görüşleriniz çok değerli. ✨
+
+##Ekran Görüntüsü 📸
+
+
+https://github.com/user-attachments/assets/b02d5aea-e18d-4788-99ea-c5906bf64bfc
+
