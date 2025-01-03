@@ -24,6 +24,5 @@ Düşüncelerinizi duymak isterim! Yorum bırakabilir veya bir hata bildirerek g
 
 ##Ekran Görüntüsü 📸
 
-
-https://github.com/user-attachments/assets/b02d5aea-e18d-4788-99ea-c5906bf64bfc
+https://github.com/user-attachments/assets/0aa0c202-f06d-43a4-a98a-5ad2f38a26a5
 
